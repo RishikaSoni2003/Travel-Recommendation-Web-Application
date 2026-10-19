@@ -1,0 +1,59 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=600&q=80",
+          "description": "A bustling metropolis blending modern skyscrapers with historic temples and vibrant culture."
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=600&q=80",
+          "description": "Famous for its classical Buddhist temples, gardens, imperial palaces, and traditional wooden houses."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Brazil",
+      "cities": [
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=600&q=80",
+          "description": "Famous for its Copacabana and Ipanema beaches, Christ the Redeemer statue, and Sugarloaf Mountain."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80",
+      "description": "An enormous Buddhist temple complex located in northern Cambodia, originally constructed as a Hindu temple."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
+      "description": "An immense mausoleum of white marble, built in Agra by Mughal emperor Shah Jahan."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=600&q=80",
+      "description": "Small South Pacific island northwest of Tahiti, surrounded by sand-fringed islets and a turquoise lagoon."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=600&q=80",
+      "description": "A vibrant 4 km beach in Rio de Janeiro known for its lively boardwalk and pristine waters."
+    }
+  ]
+}
